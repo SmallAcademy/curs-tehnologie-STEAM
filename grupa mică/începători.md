@@ -2,7 +2,7 @@
 
     # Grupa: mică (5 - 7 ani)
     # Nivel: începători
-    # Durata unei lecții: 120 minute
+    # Durata unei lecții: 90 minute (din care 10 minute pauză)
 
 ### Lecția 1
 - **Joc**: Hai să ne cunoaștem
