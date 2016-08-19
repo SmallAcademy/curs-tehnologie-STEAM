@@ -36,5 +36,5 @@
 - **Roboți:** Fotbal cu mBot
 
 ### Lecția 8
-- **Roboți:** Discul de hipnoză
+- **littleBits:** Discul de hipnoză
 - **Offline:** Secvențe logice
