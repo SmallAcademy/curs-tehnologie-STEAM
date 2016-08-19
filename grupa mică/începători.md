@@ -32,7 +32,7 @@
 - **Offline:** Inițiere în lumea tridimensională: construcții 3D cu ajutorul paielor de plastic și al pieselor geometrice printate cu imprimanta 3D
 
 ### Lecția 7
-- **Programare:** Scratch JR - Planșa "Drive Across the City"
+- **Programare:** Scratch JR - Planșa "[Drive Across the City](http://www.scratchjr.org/activities/card01-car.pdf)"
 - **Roboți:** Fotbal cu mBot
 
 ### Lecția 8
