@@ -73,3 +73,36 @@
 ### Lecția 16
 - **Virtual Reality:** [Google Cardboard](https://vr.google.com/cardboard/)
 - **littleBits:** Bubblebot
+
+### Lecția 17
+- **littleBits:** Roata norocului
+- **Roboți:** Culoar mBot de pe iPad cu obstacole
+
+### Lecția 18
+- **Offline:** alfabetul secret
+- **Programare:** Scratch JR - Spooky Forest
+
+### Lecția 19
+- **littleBits:** Fortune Cat
+- **Joc:** Programăm cu Robot Turtle
+
+### Lecția 20
+- **Offline:** Kano - asamblare
+- **Offline:** Cum funcționează un magnet
+
+### Lecția 21
+- **Programare:** Scratch JR - Dribble a Basketball
+- **littleBits:** cățel
+
+### Lecția 22
+- **littleBits:** gândăcei și albinuțe
+- **Roboți:** mBot - întrecere
+- **Offline:** Solubilitatea substanțelor
+
+### Lecția 23
+- **Programare:** Kano - Snake
+- **Programare:** Programăm în The Foos
+
+### Lecția 24
+- **Offline:** recunoașterea unui tipar
+- **littleBits:** pădure cu animăluțe
