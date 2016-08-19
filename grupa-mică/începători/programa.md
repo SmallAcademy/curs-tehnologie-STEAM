@@ -1,8 +1,9 @@
-# Programa pentru cursul de tehnologie
+# Programă curs tehnologie STEAM
 
     # Grupa: mică (5 - 7 ani)
     # Nivel: începători
-    # Durata unei lecții: 90 minute (din care 10 minute pauză)
+    # Durată lecție: 90 minute (din care 10 minute pauză)
+    # Total cursuri: 32
 
 ### Lecția 1
 - **Joc**: Hai să ne cunoaștem
