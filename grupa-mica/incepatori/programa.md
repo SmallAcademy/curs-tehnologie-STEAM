@@ -9,7 +9,7 @@
 - **Joc**: Hai să ne cunoaștem
 - **Discuție:** Ce este un calculator?
 - **Offline:** Primul meu calculator - potrivirea și lipirea componentelor
-- **Concepte de programare:** Aplicația The Foos
+- **Programare:** Aplicația The Foos
 
 ### Lecția 2
 - **Offline:** Asamblăm un un calculator adevărat
@@ -33,9 +33,43 @@
 - **Offline:** Inițiere în lumea tridimensională: construcții 3D cu ajutorul paielor de plastic și al pieselor geometrice printate cu imprimanta 3D
 
 ### Lecția 7
-- **Programare:** Scratch JR - Planșa [Drive Across the City](http://www.scratchjr.org/activities/card01-car.pdf)
+- **Programare:** Scratch JR - Planșa "Drive Across the City"
 - **Roboți:** Fotbal cu mBot
 
 ### Lecția 8
 - **littleBits:** Discul de hipnoză
 - **Offline:** Secvențe logice
+
+### Lecția 9
+- **littleBits:** Handshake Prank
+- **Programare:** Scratch JR - Sunset & Moonrise after Sunrise
+
+### Lecția 10
+- **Offline:** Loops
+- **littleBits:** throwing arm
+
+### Lecția 11
+- **Aplicații:** Învățăm să programăm - Kodable
+- **Offline:** Creăm opere de artă folosind algoritmi
+
+### Lecția 12
+- **Offline:** Prima mea tabletă (lipirea componentelor)
+- **littleBits:** autogreeter
+- **Offline:** Algoritmi într-un concurs cu zarul
+
+### Lecția 13
+- **Offline:** Brățară cu numele în binar
+- **Aplicații:** LightBot
+
+### Lecția 14
+- **littleBits:** mașinuță din Lego
+- **Offline:** Secret map + labirint pe foaie
+
+### Lecția 15
+- **Programare:** Scratch JR - Run a Race
+- **Roboți:** Cod mBot rezolvare un traseu dat
+- **Programare:** Programăm în The Foos
+
+### Lecția 16
+- **Virtual Reality:** [Google Cardboard](https://vr.google.com/cardboard/)
+- **littleBits:** Bubblebot
