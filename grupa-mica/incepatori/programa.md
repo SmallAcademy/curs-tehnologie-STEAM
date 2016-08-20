@@ -41,7 +41,7 @@ Fiecare activitate atinge unul sau mai multe domenii. De exemplu "**Programare, 
 - **Offline:** Inițiere în lumea tridimensională: construcții 3D cu ajutorul paielor de plastic și al pieselor geometrice printate cu imprimanta 3D
 
 ### Lecția 7
-- **Programare, Tabletă:** Scratch JR - Planșa *Drive Across the City*
+- **Programare, Tabletă:** Scratch JR - planșa *Drive Across the City*
 - **Roboți, Tabletă:** Fotbal cu mBot
 
 ### Lecția 8
@@ -50,7 +50,7 @@ Fiecare activitate atinge unul sau mai multe domenii. De exemplu "**Programare, 
 
 ### Lecția 9
 - **littleBits:** Handshake Prank
-- **Programare, Tabletă:** Scratch JR - Sunset & Moonrise after Sunrise
+- **Programare, Tabletă:** Scratch JR - planșa *Sunset & Moonrise after Sunrise*
 
 ### Lecția 10
 - **Offline:** Loops
@@ -147,3 +147,4 @@ Fiecare activitate atinge unul sau mai multe domenii. De exemplu "**Programare, 
 
 ### Lecția 32
 - **Offline:** Treasure Hunt
+- **Offline:** Decernarea diplomelor
