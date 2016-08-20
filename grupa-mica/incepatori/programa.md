@@ -96,7 +96,7 @@ Fiecare activitate atinge unul sau mai multe domenii. De exemplu "**Programare, 
 
 ### Lecția 20
 - **Offline, Calculator:** Asamblarea unui kit (calculator și monitor) Kano
-- **Offline:** Cum funcționează un magnet
+- **Programare, Tabletă:** Programăm în The Foos
 
 ### Lecția 21
 - **Programare, Tabletă:** Scratch JR - Dribble a Basketball
@@ -109,7 +109,7 @@ Fiecare activitate atinge unul sau mai multe domenii. De exemplu "**Programare, 
 
 ### Lecția 23
 - **Programare, Calculator:** Kano - Snake
-- **Programare, Tabletă:** Programăm în The Foos
+- **Offline:** Cum funcționează un magnet
 
 ### Lecția 24
 - **Offline:** recunoașterea unui tipar
