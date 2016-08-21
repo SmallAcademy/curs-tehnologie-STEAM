@@ -7,7 +7,7 @@
 
 ### Introducere
 
-Cursul de tehnologie STEAM (Science, Technology, Engineering, Arts and Math) este destinat copiilor cu vârsta între 5 și 7 ani, care au parcurs deja modulul de [Tehnologie STEAM începători](https://github.com/SmallAcademy/curs-tehnologie-STEAM/blob/master/grupa-mica/incepatori/programa.md). Își propune să îi familiarizeze cu cei mici cu tot ce înseamnă tehnologie cutting-edge, sub forma unor activități practice distractive.
+Cursul de tehnologie STEAM (Science, Technology, Engineering, Arts and Math) este destinat copiilor cu vârsta între 5 și 7 ani, care au parcurs deja modulul de [Tehnologie STEAM începători](https://github.com/SmallAcademy/curs-tehnologie-STEAM/blob/master/grupa-mica/incepatori/programa.md). Își propune să îi familiarizeze pe cei mici cu tot ce înseamnă tehnologie cutting-edge, sub forma unor activități practice distractive.
 
 Fiecare activitate atinge unul sau mai multe domenii. De exemplu "**Roboți, Programare, Tabletă:** Programarea roboțelului" îi ajută pe cei mici să înțeleagă concepte de programare și, în același timp, le formează dexteritatea necesară controlării unui roboțel de pe tabletă.
 
@@ -74,7 +74,7 @@ La unele activități, copiii vor lua acasă invențiile pe care le-au lucrat.
 
 ### Lecția 15
 - **Offline, Programare:** Numere
-- **Offline:** Vânătoarea de comori
+- **Joc:** Vânătoarea de comori
 
 ### Lecția 16
 - **littleBits:** Lanternă

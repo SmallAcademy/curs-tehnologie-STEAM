@@ -7,7 +7,7 @@
 
 ### Introducere
 
-Cursul de tehnologie STEAM (Science, Technology, Engineering, Arts and Math) este destinat copiilor cu vârsta între 5 și 7 ani. Își propune să îi familiarizeze cu cei mici cu tot ce înseamnă tehnologie cutting-edge, sub forma unor activități practice distractive.
+Cursul de tehnologie STEAM (Science, Technology, Engineering, Arts and Math) este destinat copiilor cu vârsta între 5 și 7 ani. Își propune să îi familiarizeze pe cei mici cu tot ce înseamnă tehnologie cutting-edge, sub forma unor activități practice distractive.
 
 Fiecare activitate atinge unul sau mai multe domenii. De exemplu "**Programare, Tabletă:** Aplicația The Foos" îi ajută pe cei mici să înțeleagă concepte de programare și, în același timp, le formează dexteritatea necesară utilizării unei tablete.
 
@@ -148,5 +148,5 @@ La unele activități, copiii vor lua acasă invențiile pe care le-au lucrat.
 - **3D:** Desenăm forme în spațiu cu creioanele 3D
 
 ### Lecția 32
-- **Offline:** Vânătoarea de comori
+- **Joc:** Vânătoarea de comori
 - **Offline:** Decernarea diplomelor
