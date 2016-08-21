@@ -11,6 +11,8 @@ Cursul de tehnologie STEAM (Science, Technology, Engineering, Arts and Math) est
 
 Fiecare activitate atinge unul sau mai multe domenii. De exemplu "**Programare, Tabletă:** Aplicația The Foos" îi ajută pe cei mici să înțeleagă concepte de programare și, în același timp, le formează dexteritatea necesară utilizării unei tablete.
 
+La unele activități, copiii vor lua acasă invențiile pe care le-au lucrat.
+
 ---
 
 ### Lecția 1
