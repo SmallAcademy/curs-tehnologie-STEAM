@@ -53,58 +53,58 @@ Fiecare activitate atinge unul sau mai multe domenii. De exemplu "**Programare, 
 - **Programare, Tabletă:** Scratch JR - planșa *Sunset & Moonrise after Sunrise*
 
 ### Lecția 10
-- **Offline:** Loops
-- **littleBits:** Throwing Arm
+- **Offline:** Bucle
+- **littleBits:** Brațul-catapultă
 
 ### Lecția 11
-- **Programare, Tabletă:** Învățăm să programăm cu Kodable
+- **Programare, Tabletă:** Învățăm să programăm cu aplicația Kodable
 - **Offline:** Creăm opere de artă folosind algoritmi
 
 ### Lecția 12
 - **Offline:** Prima mea tabletă (lipirea componentelor)
-- **littleBits:** Autogreeter
+- **littleBits:** Mână autonomă care salută
 - **Offline:** Algoritmi într-un concurs cu zarul
 
 ### Lecția 13
 - **Offline:** Brățară cu numele în binar
-- **Programare, Tabletă:** LightBot
+- **Programare, Tabletă:** Aplicația LightBot
 
 ### Lecția 14
-- **littleBits:** mașinuță din Lego
-- **Offline:** Secret map + labirint pe foaie
+- **littleBits:** Mașinuță din Lego și circuite electronice
+- **Offline:** Harta secretelor și labirintul
 
 ### Lecția 15
 - **Programare, Tabletă:** Scratch JR - planșa *Run a Race*
-- **Roboți, Programare, Tabletă:** Cod mBot rezolvare un traseu dat
-- **Programare, Tabletă:** Programăm în The Foos
+- **Roboți, Programare, Tabletă:** Programăm roboțeii mBot să parcurgă un traseu dat
+- **Programare, Tabletă:** Programăm în aplicația The Foos
 
 ### Lecția 16
 - **Realitate virtuală:** [Google Cardboard](https://vr.google.com/cardboard/)
-- **littleBits:** Bubblebot
+- **littleBits:** Mecanismul autonom care suflă baloane de săpun
 
 ### Lecția 17
-- **littleBits:** Roata norocului
-- **Roboți, Tabletă:** Culoar mBot de pe iPad cu obstacole
+- **littleBits:** Roata științei cu provocări
+- **Roboți, Tabletă:** Controlăm roboțelul să evite obstacole
 
 ### Lecția 18
 - **Offline:** Alfabetul secret
 - **Programare, Tabletă:** Scratch JR - planșa *Spooky Forest*
 
 ### Lecția 19
-- **littleBits:** Fortune Cat
+- **littleBits:** Pisicuța care ne aduce noroc
 - **Joc, Programare:** Programăm cu Robot Turtle
 
 ### Lecția 20
 - **Offline, Calculator:** Asamblarea unui kit (calculator și monitor) Kano
-- **Programare, Tabletă:** Programăm în The Foos
+- **Programare, Tabletă:** Programăm în aplicația The Foos
 
 ### Lecția 21
-- **Programare, Tabletă:** Scratch JR - Dribble a Basketball
+- **Programare, Tabletă:** Scratch JR - planșa *Dribble a Basketball*
 - **littleBits:** Cățelul care dă din coadă
 
 ### Lecția 22
 - **littleBits:** Gândăcei și albinuțe
-- **Roboți, Tabletă:** mBot - întrecere
+- **Roboți, Tabletă:** Întrecere cu roboțeii mBot
 - **Offline:** Solubilitatea substanțelor
 
 ### Lecția 23
@@ -112,7 +112,7 @@ Fiecare activitate atinge unul sau mai multe domenii. De exemplu "**Programare, 
 - **Offline:** Cum funcționează un magnet
 
 ### Lecția 24
-- **Offline:** recunoașterea unui tipar
+- **Offline:** Recunoașterea unui tipar
 - **littleBits:** Pădurea cu animăluțe
 
 ### Lecția 25
@@ -120,25 +120,25 @@ Fiecare activitate atinge unul sau mai multe domenii. De exemplu "**Programare, 
 - **littleBits:** Terenul de golf
 
 ### Lecția 26
-- **Offline:** folie de bule
+- **Offline:** Secvențe flexibile
 - **Roboți, Programare, Tabletă:** Comandarea roboțelului prin labirint
-- **Programare, Tabletă:** Învățăm să programăm - Kodable
+- **Programare, Tabletă:** Învățăm să programăm - aplicația Kodable
 
 ### Lecția 27
 - **3D:** Desenăm cu creioane 3D (introducere)
-- **Programare, Tabletă:** Programăm în El Chavo
+- **Programare, Tabletă:** Programăm în aplicația El Chavo
 
 ### Lecția 28
 - **Programare, Tabletă:** Scratch JR - planșa *Meet and Greet*
 - **littleBits:** Balerine
-- **littleBits:** Construim o lanternă
+- **littleBits:** Creăm o lanternă
 
 ### Lecția 29
 - **Joc:** Programăm cu Robot Turtle
-- **Programare, Calculator:** Kano: Pong
+- **Programare, Calculator:** Kano - Pong
 
 ### Lecția 30
-- **Offline:** Secvențe flexibile
+- **Offline:** Covorașul zgomotos ne învață ce sunt algoritmii
 - **littleBits, Realitate virtuală, Tabletă:** Ne personalizăm fotografiile în aplicația MSQRD și ne creăm o ramă personalizată
 
 ### Lecția 31
@@ -146,5 +146,5 @@ Fiecare activitate atinge unul sau mai multe domenii. De exemplu "**Programare, 
 - **3D:** Desenăm forme în spațiu cu creioanele 3D
 
 ### Lecția 32
-- **Offline:** Treasure Hunt
+- **Offline:** Vânătoarea de comori
 - **Offline:** Decernarea diplomelor
