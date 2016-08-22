@@ -1,7 +1,7 @@
 # Programă curs tehnologie STEAM
 
     # Grupa: mare (8 - 16 ani)
-    # Nivel: avansați
+    # Nivel: începători
     # Durată lecție: 120 minute (din care 10 minute pauză)
     # Total lecții: 32
 
@@ -43,7 +43,7 @@ La unele activități, copiii vor lua acasă invențiile pe care le-au lucrat.
 - **Offline:** Geoboard
 
 ### Lecția 6
-- **Offline:** Mini studio - Matrix Style Bullet Timeline, whitebox, camera dolly, 360 timelapse, hyperlapse
+- **Offline:** Ne creăm un mini studio - Matrix Style Bullet Timeline, whitebox, camera dolly, 360 timelapse, hyperlapse
 
 ### Lecția 7
 - **Tabletă:** Video personalizat pe o temă dată
@@ -58,12 +58,12 @@ La unele activități, copiii vor lua acasă invențiile pe care le-au lucrat.
 - **Offline, 3D:** Printăm 3D și ne construim un mecanism cinetic cu obiectele printate
 
 ### Lecția 10
-- **Programare, Calculator:** Introducere în kit-ul Kano și aplicația Pong
+- **Programare, Calculator:** Introducerea kit-ului Kano și programarea vizuală în aplicația Pong
 
 ### Lecția 11
 - **Offline, 3D:** Folosim spirografe printate 3D pentru a ne crea opere de artă
 - **littleBits:** Handshake prank și discul de hipnoză
-- **Offline:** Harta secretelor
+- **Offline:** Harta secretelor cu principii logice de programare
 
 ### Lecția 12
 - **littleBits:** Introducereaa componentelor electronice (continuare)
@@ -82,7 +82,7 @@ La unele activități, copiii vor lua acasă invențiile pe care le-au lucrat.
 ### Lecția 15
 - **littleBits:** Ne personalizăm fotografiile în aplicația MSQRD și ne creăm o ramă personalizată
 - **Roboți, Tabletă:** Culoar mBot de pe iPad cu obstacole
-LightBot
+- **Tabletă:** Aplicația LightBot
 
 ### Lecția 16
 - **Offline, 3D:** Construcții 3D într-o reacție în lanț
@@ -107,7 +107,7 @@ LightBot
 
 ### Lecția 21
 - **littleBits:** Roboțelul R2D2 din Star Wars
-Realitate augumentată - lunch rush
+- **Realitate augumentată, Tabletă:** Aplicația Lunch Rush
 - **littleBits:** Aparat de aer condiționat
 
 ### Lecția 22
@@ -121,7 +121,7 @@ Realitate augumentată - lunch rush
 - **Programare, Tabletă:** Scratch JR - planșa *Dribble a Basketball*
 
 ### Lecția 24
-- **Roboți, Programare, Tabletă, littlebits:** Experiment programare roboțel mBot + măsurători lumină și temperatură cu littleBits
+- **Roboți, Programare, Tabletă, littlebits:** Programarea roboțelului mBot și experiment de măsurare a luminii și temperaturii cu littleBits
 - **Programare, Calculator:** Reprezentăm într-un grafic pe Kano - Make Art heat map-ul rezultat din experiment
 - **littleBits:** Pălăria haioasă
 
@@ -158,5 +158,5 @@ Realitate augumentată - lunch rush
 ### Lecția 32
 - **Programare, Tabletă:** Scratch JR - planșa *Conversation*
 - **3D:** Dodecaedru cu creionul 3D
-- **littleBits:** Mașinuță din lego și componente electronice
+- **littleBits:** Mașinuță din Lego și componente electronice
 - **Offline:** Decernarea diplomelor
