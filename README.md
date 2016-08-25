@@ -7,7 +7,7 @@
 
 > La finalul cursului, copiii vor putea construi și controla un robot, vor înțelege cum funcționează curentul electric și folosi diverse componente electrice (inputs și outputs) și materiale pentru a-și crea invenții cu diferite grade de dificultate (mașini, catapulte etc.), vor știi să programeze folosind blocuri vizuale sau limbaje de programare și vor înțelege cum funcționează lucrurile din jurul lor.
 
-Îți recomandăm și: [Cursul de programare](https://github.com/SmallAcademy/curs-programare), [Cursul de robotică](https://github.com/SmallAcademy/curs-robotica)
+**Îți recomandăm și:** [Cursul de programare](https://github.com/SmallAcademy/curs-programare), [Cursul de robotică](https://github.com/SmallAcademy/curs-robotica)
 
 # Ce este Small Academy?
 
