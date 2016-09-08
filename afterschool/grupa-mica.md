@@ -2,12 +2,12 @@
 
     # Grupa: mică (5 - 7 ani)
     # Nivel: începători
-    # Durată lecție: 90 minute (din care 10 minute pauză)
+    # Durată lecție: 45 minute
     # Total lecții: 32
 
 ### Introducere
 
-Cursul de tehnologie STEAM (Science, Technology, Engineering, Arts and Math) este destinat copiilor cu vârsta între 5 și 7 ani. Își propune să îi familiarizeze pe cei mici cu tot ce înseamnă tehnologie cutting-edge, sub forma unor activități practice distractive.
+Cursul de tehnologie STEAM (Science, Technology, Engineering, Arts and Math) este destinat copiilor cu vârsta între 5 și 7 ani. Își propune să îi familiarizeze pe cei mici cu tot ce înseamnă tehnologie cutting-edge, sub forma unor activități practice și distractive.
 
 Fiecare activitate atinge unul sau mai multe domenii. De exemplu "**Programare, Tabletă:** Aplicația The Foos" îi ajută pe cei mici să înțeleagă concepte de programare și, în același timp, le formează dexteritatea necesară utilizării unei tablete.
 
@@ -19,134 +19,113 @@ La unele activități, copiii vor lua acasă invențiile pe care le-au lucrat.
 - **Joc**: Hai să ne cunoaștem
 - **Offline:** Ce este un calculator?
 - **Offline:** Primul meu calculator - potrivirea și lipirea componentelor
-- **Programare, Tabletă:** Aplicația The Foos
 
 ### Lecția 2
+- **Programare, Tabletă:** Aplicația The Foos
 - **Offline:** Asamblăm un un calculator adevărat
+
+### Lecția 3
 - **Offline:** Conceptul *if... then... else*
 - **littleBits:** Introducere în electronică, alături de modulele de la littleBits
 
-### Lecția 3
+### Lecția 4
 - **Programare, Tabletă:** Introducere în Scratch JR
 - **Offline:** Prima mea tastatură - identificarea poziției tastelor și lipirea acestora
 
-### Lecția 4
-- **Roboți:** Asamblarea robotului educațional mBot
-- **Roboți, Tabletă:** Controlarea roboțelului cu tableta, pentru a învăța modul în care se mișcă acesta
-
 ### Lecția 5
-- **Offline:** Ne creăm o telecomandă, la care putem atribui proceduri
-- **littleBits:** Introducere în electronică, alături de modulele de la littleBits (continuare din lecția 2)
+- **Roboți:** Asamblarea robotului educațional mBot
 
 ### Lecția 6
-- **Roboți, Tabletă:** Crearea unui oraș pentru roboțelul mBot și manevrarea acestuia printre obstacole;
-- **Offline:** Inițiere în lumea tridimensională: construcții 3D cu ajutorul paielor de plastic și al pieselor geometrice printate cu imprimanta 3D
+- **Roboți, Tabletă:** Controlarea roboțelului cu tableta, pentru a învăța modul în care se mișcă acesta
+- **Offline:** Ne creăm o telecomandă, la care putem atribui proceduri
 
 ### Lecția 7
-- **Programare, Tabletă:** Scratch JR - planșa *Drive Across the City*
-- **Roboți, Tabletă:** Fotbal cu mBot
+- **littleBits:** Introducere în electronică, alături de modulele de la littleBits (continuare din lecția 3)
+- **littleBits:** Discul de hipnoză
 
 ### Lecția 8
-- **littleBits:** Discul de hipnoză
-- **Offline:** Secvențe logice
+- **Roboți, Tabletă:** Crearea unui oraș pentru roboțelul mBot și manevrarea acestuia printre obstacole
 
 ### Lecția 9
-- **littleBits:** Handshake Prank
-- **Programare, Tabletă:** Scratch JR - planșa *Sunset & Moonrise after Sunrise*
+- **Offline:** Inițiere în lumea tridimensională: construcții 3D cu ajutorul paielor de plastic și al pieselor geometrice printate cu imprimanta 3D
+- **Roboți, Tabletă:** Fotbal cu mBot
 
 ### Lecția 10
+- **Programare, Tabletă:** Scratch JR - planșa *Drive Across the City*
+- **littleBits:** Handshake Prank
+
+### Lecția 11
+
+- **Programare, Tabletă:** Scratch JR - planșa *Sunset & Moonrise after Sunrise*
+
+### Lecția 12
 - **Offline:** Bucle
 - **littleBits:** Brațul-catapultă
 
-### Lecția 11
+### Lecția 13
 - **Programare, Tabletă:** Învățăm să programăm cu aplicația Kodable
 - **Offline:** Creăm opere de artă folosind algoritmi
 
-### Lecția 12
+### Lecția 14
 - **Offline:** Prima mea tabletă (lipirea componentelor)
 - **littleBits:** Mână autonomă care salută
-- **Offline:** Algoritmi într-un concurs cu zarul
-
-### Lecția 13
-- **Offline:** Brățară cu numele în binar
-- **Programare, Tabletă:** Aplicația LightBot
-
-### Lecția 14
-- **littleBits:** Mașinuță din Lego și circuite electronice
-- **Offline:** Harta secretelor și labirintul
 
 ### Lecția 15
-- **Programare, Tabletă:** Scratch JR - planșa *Run a Race*
-- **Roboți, Programare, Tabletă:** Programăm roboțeii mBot să parcurgă un traseu dat
-- **Programare, Tabletă:** Programăm în aplicația The Foos
+- **Offline:** Algoritmi într-un concurs cu zarul
+- **Realitate virtuală:** [Google Cardboard](https://vr.google.com/cardboard/)
 
 ### Lecția 16
-- **Realitate virtuală:** [Google Cardboard](https://vr.google.com/cardboard/)
-- **littleBits:** Mecanismul autonom care suflă baloane de săpun
+- **Offline:** Brățară cu numele în binar
 
 ### Lecția 17
+- **littleBits:** Mașinuță din Lego și circuite electronice
+
+### Lecția 18
+- **Programare, Tabletă:** Scratch JR - planșa *Run a Race*
+- **Roboți, Programare, Tabletă:** Programăm roboțeii mBot să parcurgă un traseu dat
+
+### Lecția 19
+- **littleBits:** Mecanismul autonom care suflă baloane de săpun
+
+### Lecția 20
 - **littleBits:** Roata științei cu provocări
 - **Roboți, Tabletă:** Controlăm roboțelul să evite obstacole
 
-### Lecția 18
-- **Offline:** Alfabetul secret
-- **Programare, Tabletă:** Scratch JR - planșa *Spooky Forest*
-
-### Lecția 19
-- **littleBits:** Pisicuța care ne aduce noroc
-- **Joc, Programare:** Programăm cu Robot Turtle
-
-### Lecția 20
-- **Offline, Calculator:** Asamblarea unui kit (calculator și monitor) Kano
-- **Programare, Tabletă:** Programăm în aplicația The Foos
-
 ### Lecția 21
-- **Programare, Tabletă:** Scratch JR - planșa *Dribble a Basketball*
-- **littleBits:** Cățelul care dă din coadă
+- **Offline:** Alfabetul secret
 
 ### Lecția 22
-- **littleBits:** Gândăcei și albinuțe
-- **Roboți, Tabletă:** Întrecere cu roboțeii mBot
-- **Offline:** Solubilitatea substanțelor
+- **Programare, Tabletă:** Scratch JR - planșa *Spooky Forest*
 
 ### Lecția 23
-- **Programare, Calculator:** Kano - Snake
-- **Offline:** Cum funcționează un magnet
+- **littleBits:** Pisicuța care ne aduce noroc
 
 ### Lecția 24
-- **Offline:** Recunoașterea unui tipar
-- **littleBits:** Pădurea cu animăluțe
+- **Joc, Programare:** Programăm cu Robot Turtle
 
 ### Lecția 25
-- **Programare, Tabletă:** Scratch JR - planșa *Dance Party*
-- **littleBits:** Terenul de golf
+- **littleBits, Realitate virtuală, Tabletă:** Ne personalizăm fotografiile în aplicația MSQRD și ne creăm o ramă personalizată
 
 ### Lecția 26
-- **Offline:** Secvențe flexibile
-- **Roboți, Programare, Tabletă:** Comandarea roboțelului prin labirint
-- **Programare, Tabletă:** Învățăm să programăm - aplicația Kodable
+- **Programare, Calculator:** Kano - Snake
 
 ### Lecția 27
 - **3D:** Desenăm cu creioane 3D (introducere)
-- **Programare, Tabletă:** Programăm în aplicația El Chavo
 
 ### Lecția 28
-- **Programare, Tabletă:** Scratch JR - planșa *Meet and Greet*
-- **littleBits:** Balerine
-- **littleBits:** Creăm o lanternă
-
-### Lecția 29
-- **Joc:** Programăm cu Robot Turtle
 - **Programare, Calculator:** Kano - Pong
 
+### Lecția 29
+- **Offline:** Cum funcționează un magnet
+- **Programare, Tabletă:** Scratch JR - planșa *Dribble a Basketball*
+
 ### Lecția 30
-- **Offline:** Covorașul zgomotos ne învață ce sunt algoritmii
-- **littleBits, Realitate virtuală, Tabletă:** Ne personalizăm fotografiile în aplicația MSQRD și ne creăm o ramă personalizată
+- **littleBits:** Cățelul care dă din coadă
 
 ### Lecția 31
-- **Programare, Tabletă:** Scratch JR - planșa *Conversation*
-- **3D:** Desenăm forme în spațiu cu creioanele 3D
+- **littleBits:** Gândăcei și albinuțe
+- **Roboți, Tabletă:** Întrecere cu roboțeii mBot
 
 ### Lecția 32
-- **Joc:** Vânătoarea de comori
-- **Offline:** Decernarea diplomelor
+- **littleBits:** Balerine
+- **littleBits:** Creăm o lanternă
