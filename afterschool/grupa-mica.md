@@ -1,4 +1,4 @@
-# Programă curs tehnologie (STEAM) pentru grădinițe și programe After School
+# Programă curs tehnologie (STEAM) pentru grădinițe, școli și programe After School
 
     # Grupa: mică (5 - 7 ani)
     # Nivel: începători
