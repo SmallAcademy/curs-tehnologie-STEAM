@@ -22,7 +22,7 @@ La unele activități, copiii vor lua acasă invențiile pe care le-au lucrat.
 - **Programare, Tabletă:** Aplicația The Foos
 
 ### Lecția 2
-- **Offline:** Asamblăm un un calculator adevărat
+- **Offline:** Asamblăm un calculator adevărat
 - **Offline:** Conceptul *if... then... else*
 - **littleBits:** Introducere în electronică, alături de modulele de la littleBits
 
