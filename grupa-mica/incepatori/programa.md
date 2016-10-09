@@ -39,7 +39,7 @@ La unele activități, copiii vor lua acasă invențiile pe care le-au lucrat.
 - **littleBits:** Introducere în electronică, alături de modulele de la littleBits (continuare din lecția 2)
 
 ### Lecția 6
-- **Roboți, Tabletă:** Crearea unui oraș pentru roboțelul mBot și manevrarea acestuia printre obstacole;
+- **Roboți, Tabletă:** Crearea unui oraș pentru roboțelul mBot și manevrarea acestuia printre obstacole
 - **Offline:** Inițiere în lumea tridimensională: construcții 3D cu ajutorul paielor de plastic și al pieselor geometrice printate cu imprimanta 3D
 
 ### Lecția 7
