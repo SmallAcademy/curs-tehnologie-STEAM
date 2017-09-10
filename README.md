@@ -10,6 +10,6 @@
 
 # Ce este Small Academy?
 
-Small Academy este un hub de educație STEAM (știință, tehnologie, inginerie, artă și matematică) sub forma unor cursuri practice și distractive de robotică, programare și tehnologie, pentru copii între 5 și 16 ani.
+Small Academy este un hub de educație iSTEAM, unde inovația, știința, tehnologia, inginerie, arta și matematica se îmbină sub forma unor activități, proiecte și experiențe de învățare practice și distractive pentru copii între 5 și 14 ani.
 
-Misiunea noastră este să îmbogățim viața copiilor prin tehnologie și o educație experențială, centrată pe copii. Ne dorim ca cei mici să aibă parte de o experiență aplicată dincolo de cărți și teorie, să experimenteze, să creeze invenții și să înțeleagă lumea din jurul lor. Obiectivul nostru este să îi pregătim pe copii pentru profesiile viitorului, unde abilitățile digitale vor fi de nelipsit.
+Misiunea noastră este să îmbogățim viața copiilor prin tehnologie și o educație experențială, centrată pe nevoile copiilor. Ne dorim ca cei mici să aibă parte de o experiență aplicată dincolo de cărți și teorie, să experimenteze, să creeze invenții și să înțeleagă lumea din jurul lor. Obiectivul nostru este să îi pregătim pe copii pentru profesiile viitorului, unde abilitățile digitale vor fi de nelipsit.
