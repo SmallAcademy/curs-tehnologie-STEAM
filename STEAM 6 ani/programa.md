@@ -2,7 +2,7 @@
 
     # Vârsta: 6 ani
     # Durată ședință: 60 minute
-    # Total ședințe: 28
+    # Număr ședințe: 28
 
 ## Introducere
 
