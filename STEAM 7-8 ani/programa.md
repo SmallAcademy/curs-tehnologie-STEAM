@@ -6,7 +6,7 @@
 
 ## Introducere
 
-Cursul STEAM (Science, Technology, Engineering, Arts and Math) este destinat copiilor de 5 ani și își propune să îi familiarizeze pe cei mici cu tot ce înseamnă tehnologii cutting-edge, sub forma unor activități practice și distractive.
+Cursul STEAM (Science, Technology, Engineering, Arts and Math) este destinat copiilor de 7-8 ani și își propune să îi familiarizeze pe cei mici cu tot ce înseamnă tehnologii cutting-edge, sub forma unor activități practice și distractive.
 
 ## Conținut
 
@@ -32,4 +32,4 @@ Cursul STEAM (Science, Technology, Engineering, Arts and Math) este destinat cop
 
 #### Inginerie
 - Construcții clădiri, poduri, turnuri etc.
-- Construcții autovehicule 
+- Construcții autovehicule
