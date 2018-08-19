@@ -2,7 +2,7 @@
 
     # Vârsta: 7-8 ani
     # Durată ședință: 90 minute
-    # Număr ședințe: 28
+    # Număr ședințe: 31
 
 ## Introducere
 
