@@ -1,12 +1,12 @@
 # Programă curs STEAM
 
-    # Vârsta: 6 ani
+    # Vârsta: 5-6 ani
     # Durată ședință: 60 minute
-    # Număr ședințe: 28
+    # Număr ședințe: 31
 
 ## Introducere
 
-Cursul STEAM (Science, Technology, Engineering, Arts and Math) este destinat copiilor de 6 ani și își propune să îi familiarizeze pe cei mici cu tot ce înseamnă tehnologii cutting-edge, sub forma unor activități practice și distractive.
+Cursul STEAM (Science, Technology, Engineering, Arts and Math) este destinat copiilor între 5 și 6 ani și își propune să îi familiarizeze pe cei mici cu tot ce înseamnă tehnologii cutting-edge, sub forma unor activități practice și distractive.
 
 ## Conținut
 
