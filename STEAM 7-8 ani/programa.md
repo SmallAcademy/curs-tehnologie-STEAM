@@ -1,8 +1,8 @@
 # Programă curs STEAM
 
     # Vârsta: 7-8 ani
-    # Durată ședință: 90 minute
-    # Număr ședințe: 31
+    # Durată ședință: 60 minute
+    # Număr ședințe: 31+ (septembrie - iunie)
 
 ## Introducere
 
